@@ -11,7 +11,7 @@ Energetic B.E Student with proven skills in Programming, Web Development, and Di
 * ✉️  You can contact me at [smmaurya29012001@gmail.com](mailto:smmaurya29012001@gmail.com)
 * 🚀  I'm currently working on [e-Learning System for Institutes](http://vcet-final-year-project.herokuapp.com/)
 * 🧠  I'm learning MERN Stack and DSA
-* 🤝  I'm open to collaborating on Interesting Projects, DSA Bootcamps, etc
+* 🤝  I'm open to collaborating on Interesting Projects, Open-Source Programs, DSA Bootcamps, etc
 * ⚡  Apart from Development, I am also managing my site ShoutMeBack where I publish amazing gaming guides and articles.
 
 <a href="https://www.github.com/Shubham29012001" target="_blank" rel="noreferrer"><img
